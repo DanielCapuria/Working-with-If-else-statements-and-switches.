@@ -56,6 +56,10 @@ namespace SwitchProject
                     break;
                     case 3: Console.WriteLine("The Airforce has a great quality of life!");
                     break;
+                case 4: Console.WriteLine("The United States has the largest Navy in the world!");
+                    break;
+                    case 5: Console.WriteLine("The Coast Guard branch doesn't belong to the Defense Department, but rather to the Department of Homeland Security.");
+                    break;
             }
 
 
